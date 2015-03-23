@@ -12,7 +12,6 @@ summarize(by_package, mean(size))
 ?n_distinct
 ?n
 
-
 ######script#####
 Compute four values, in the following order, from
 # the grouped data:
